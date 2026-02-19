@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "sessions": [
+    {
+      "id": "aware_guided_3",
+      "title": "Awareness (3 min) — Start small",
+      "practiceType": "awareness",
+      "durationSeconds": 180,
+      "mode": "guided",
+      "transcript": [
+        {"type": "text", "value": "Let’s do something small. Three minutes is enough."},
+        {"type": "text", "value": "Take a breath. Or don’t. Either is fine."},
+        {"type": "text", "value": "Notice this: you’re already aware. Something is hearing these words."},
+        {"type": "text", "value": "You don’t need to create awareness. It’s already here."},
+        {"type": "text", "value": "Thoughts might show up. Sounds might show up. That’s not a mistake."},
+        {"type": "text", "value": "If the mind wanders, that’s not a problem. Noticing that it wandered is the practice."},
+        {"type": "pause", "seconds": 20},
+        {"type": "text", "value": "For a few breaths, see if you can recognize awareness — again and again — right in the middle of ordinary experience."},
+        {"type": "pause", "seconds": 30},
+        {"type": "text", "value": "If you feel overwhelmed, open your eyes and feel your feet. You can stop anytime."},
+        {"type": "pause", "seconds": 20},
+        {"type": "text", "value": "Before we finish: notice you practiced by noticing. That counts."}
+      ],
+      "onScreenReminders": null,
+      "safety": {
+        "hasGroundingExit": true,
+        "disclaimer": "Meditation is not a replacement for therapy."
+      }
+    },
+
+    {
+      "id": "aware_unguided_3",
+      "title": "Awareness (3 min) — Unguided",
+      "practiceType": "awareness",
+      "durationSeconds": 180,
+      "mode": "unguided",
+      "transcript": null,
+      "onScreenReminders": [
+        "Awareness is already here.",
+        "Thoughts are allowed.",
+        "Noticing is the practice."
+      ],
+      "safety": {
+        "hasGroundingExit": true,
+        "disclaimer": "Meditation is not a replacement for therapy."
+      }
+    },
+
+    {
+      "id": "body_guided_5",
+      "title": "Body (5 min) — Grounding in sensation",
+      "practiceType": "body",
+      "durationSeconds": 300,
+      "mode": "guided",
+      "transcript": [
+        {"type": "text", "value": "Let’s use the body as a simple anchor."},
+        {"type": "text", "value": "You can keep your eyes open or closed — whichever feels safer."},
+        {"type": "text", "value": "Notice contact: feet on the floor, body on the chair."},
+        {"type": "pause", "seconds": 20},
+        {"type": "text", "value": "If you can feel the breath, great. If not, use hands, feet, or warmth in the face."},
+        {"type": "text", "value": "If the mind wanders, that’s normal. Gently return to one physical sensation."},
+        {"type": "pause", "seconds": 40},
+        {"type": "text", "value": "If anything feels too intense, open your eyes and look around. That’s still practice."},
+        {"type": "pause", "seconds": 30},
+        {"type": "text", "value": "To finish, notice: you can feel sensation and be aware at the same time."}
+      ],
+      "onScreenReminders": null,
+      "safety": {
+        "hasGroundingExit": true,
+        "disclaimer": "Meditation is not a replacement for therapy."
+      }
+    },
+
+    {
+      "id": "kind_guided_5",
+      "title": "Kindness (5 min) — A gentle attitude",
+      "practiceType": "kindness",
+      "durationSeconds": 300,
+      "mode": "guided",
+      "transcript": [
+        {"type": "text", "value": "This isn’t about forcing positivity. It’s about practicing a gentler relationship with experience."},
+        {"type": "text", "value": "Start with yourself. If that’s hard, start with ‘someone like you’ — a human trying to get through the day."},
+        {"type": "pause", "seconds": 15},
+        {"type": "text", "value": "Quietly offer a simple wish: ‘May I have a little more ease.’"},
+        {"type": "pause", "seconds": 20},
+        {"type": "text", "value": "If it feels fake, that’s okay. Notice what you feel — numb, warm, resistant — and let that be included."},
+        {"type": "pause", "seconds": 30},
+        {"type": "text", "value": "Now widen slightly: ‘May others have a little more ease too.’ No need to picture anyone clearly."},
+        {"type": "pause", "seconds": 30},
+        {"type": "text", "value": "To finish, notice the intention itself. The practice is the willingness to be kind."}
+      ],
+      "onScreenReminders": null,
+      "safety": {
+        "hasGroundingExit": true,
+        "disclaimer": "Meditation is not a replacement for therapy."
+      }
+    },
+
+    {
+      "id": "open_guided_8",
+      "title": "Open Awareness (8 min) — Let experience unfold",
+      "practiceType": "openAwareness",
+      "durationSeconds": 480,
+      "mode": "guided",
+      "transcript": [
+        {"type": "text", "value": "In this practice, there’s no single object."},
+        {"type": "text", "value": "Let sounds, thoughts, and sensations come and go."},
+        {"type": "text", "value": "Your job is not to manage the mind. It’s to notice awareness as things change."},
+        {"type": "pause", "seconds": 30},
+        {"type": "text", "value": "If you feel overwhelmed, return to a body anchor: feet, hands, or breath."},
+        {"type": "pause", "seconds": 40},
+        {"type": "text", "value": "You might notice moments of space. You might not. Either is fine."},
+        {"type": "pause", "seconds": 40},
+        {"type": "text", "value": "To finish, notice: awareness is still here, even with a busy mind."}
+      ],
+      "onScreenReminders": null,
+      "safety": {
+        "hasGroundingExit": true,
+        "disclaimer": "Meditation is not a replacement for therapy."
+      }
+    }
+  ]
+}
